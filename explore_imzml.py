@@ -2,10 +2,9 @@ from pyimzml.ImzMLParser import ImzMLParser
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider
-from scipy.signal import savgol_filter
 
 
-imzml_path = 'C:\\Users\\tvanheme\\Desktop\\PhD\\Code\\TBM-Smoke\\data_paper\\orbitrap\\A52 CT S3-profile.imzML'
+imzml_path = '<path_to_folder>\\A52 CT S3-profile.imzML'
 
 spectra = []
 mzs = []

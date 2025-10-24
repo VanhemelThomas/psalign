@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "psalign"
 version = "0.1.0"
-description = "Short description of your package"
+description = "A tool for (relative) mass alignment in mass spectrometry"
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [{ name="Thomas Vanhemel", email="thomas.vanhemel@kuleuven.be" }]

@@ -11,7 +11,7 @@ create and activate an environment (Windows)
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
-and build the project by typing
+and build the project by executing
 ```
 pip install .
 ```
